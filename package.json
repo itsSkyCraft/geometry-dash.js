@@ -1,0 +1,26 @@
+{
+  "name": "geometry-dash.js",
+  "version": "1.0.0",
+  "description": "A Package For Interacting Geometry Dash API From gdbrowser.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsSkyCraft/geometry-dash.js.git"
+  },
+  "keywords": [
+    "gd"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsSkyCraft/geometry-dash.js/issues"
+  },
+  "homepage": "https://github.com/itsSkyCraft/geometry-dash.js#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "querystring": "^0.2.1"
+  }
+}
